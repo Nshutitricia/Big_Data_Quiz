@@ -1,6 +1,6 @@
 # Big_Data_Quiz
 ---
-### 1. `calculate_age function`
+### 1.📊 `calculate_age function`
 ```sql
 def calculate_age():
     name = input('Enter your name:')
@@ -11,7 +11,7 @@ def calculate_age():
 calculate_age()
 ```
 ![Conceptual Diagram](https://github.com/Nshutitricia/Big_Data_Quiz/blob/92332e28b3e5111b4912f5e68c0f3f040148df6f/git1.PNG)
-### 2. `ispalindrome function`
+### 2.📊 `ispalindrome function`
 ```sql
 def isPalindrome():
     text = input('Enter a text')
@@ -19,7 +19,7 @@ def isPalindrome():
 isPalindrome()
 ```
 ![Conceptual Diagram](https://github.com/Nshutitricia/Big_Data_Quiz/blob/92332e28b3e5111b4912f5e68c0f3f040148df6f/git2.PNG)
-### 3. `iteratetexts function`
+### 3.📊 `iteratetexts function`
 ```sql
 def iterateTexts():
     text1 = input('Enter first text')
