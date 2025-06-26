@@ -1,5 +1,5 @@
 # Big_Data_Quiz
----
+
 ### 1.📊 `calculate_age function`
 ```sql
 def calculate_age():
