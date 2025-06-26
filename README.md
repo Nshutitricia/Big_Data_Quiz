@@ -1,5 +1,16 @@
 # Big_Data_Quiz
 
+## Group Members
+```
+-Irabaruta Willy Norbert(27463)
+-Uwimbabazi Sandrine(27399)
+-Nshuti Tricia(27253)
+-Kwizera Sandrine(26104)
+-Rugandura Maurice(27718)
+-Murihira Muhire Arsene(27656)
+
+```
+
 ### 1.📊 `calculate_age function`
 ```sql
 def calculate_age():
